@@ -7,7 +7,7 @@ Application has one dependency, which can be installed with Python's package man
 
 After installation the application should be ready to be used.
 
-## Building and running with DOcker
+## Building and running with Docker
 Source code includes small Dockerfile, which enables application to be ready to be containerized.
 
 Building image:
